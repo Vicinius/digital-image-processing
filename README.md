@@ -15,5 +15,5 @@ Summary:
 Some visual examples:
 
 *include images here*
-
-![plot](/directory_1/directory_2/.../directory_n/plot.png)
+![image](https://user-images.githubusercontent.com/59844324/165641862-f9c48ba3-726e-4b95-baac-50b694d71fee.png)
+![image](https://user-images.githubusercontent.com/59844324/165641896-e908b86d-02d7-485b-9e91-e639e9d54b9c.png)
