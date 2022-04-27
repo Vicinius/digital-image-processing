@@ -10,7 +10,7 @@ Summary:
   * pratica04: other filters, like mean and laplace
   * pratica05: binary thresholding, webcam input and skin segmentation/detection using color information
   * pratica06: canny border detector and harris corner detector
-  EXTRA: * filtering-borders* ---> image filtering using for loops and not the already existing function
+  * EXTRA: **filtering-borders** ---> image filtering using for loops and not the already existing function
 
 Some visual examples:
 
