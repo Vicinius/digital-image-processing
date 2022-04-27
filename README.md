@@ -15,5 +15,7 @@ Summary:
 Some visual examples:
 
 *include images here*
-![image](https://user-images.githubusercontent.com/59844324/165641862-f9c48ba3-726e-4b95-baac-50b694d71fee.png)
+!![image](https://user-images.githubusercontent.com/59844324/165642045-14a880b4-5f2c-4a56-a687-0426324bb9d7.png)
 ![image](https://user-images.githubusercontent.com/59844324/165641896-e908b86d-02d7-485b-9e91-e639e9d54b9c.png)
+![image](https://user-images.githubusercontent.com/59844324/165642021-71d0d752-7f95-4311-ba12-73803528d07c.png)
+![image](https://user-images.githubusercontent.com/59844324/165642035-caf6dfbe-d5d6-4774-b616-198e8b49cd86.png)
