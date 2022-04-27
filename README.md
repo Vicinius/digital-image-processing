@@ -14,8 +14,10 @@ Summary:
 
 Some visual examples:
 
-*include images here*
-!![image](https://user-images.githubusercontent.com/59844324/165642045-14a880b4-5f2c-4a56-a687-0426324bb9d7.png)
-![image](https://user-images.githubusercontent.com/59844324/165641896-e908b86d-02d7-485b-9e91-e639e9d54b9c.png)
+* **Histogram equalization**
+![image](https://user-images.githubusercontent.com/59844324/165642367-ffd1f20c-eeb1-4fba-84b8-cd9895259c51.png)
+![image](https://user-images.githubusercontent.com/59844324/165642447-f24e46e7-5e9f-4fba-87ed-d46122d6b74f.png)
+
+* **Colorspaces and RGB channel split**
 ![image](https://user-images.githubusercontent.com/59844324/165642021-71d0d752-7f95-4311-ba12-73803528d07c.png)
 ![image](https://user-images.githubusercontent.com/59844324/165642035-caf6dfbe-d5d6-4774-b616-198e8b49cd86.png)
