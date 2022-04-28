@@ -1,5 +1,5 @@
 # digital-image-processing
-This repository contains some of the pratices that I made during PDIVC classes (processamento digital de imagens e visão computacional) at @IFES
+This repository contains some of the pratices that I made during PDIVC classes (digital image processing and computational vision - or - processamento digital de imagens e visão computacional in portuguese) at @IFES
 
 It is a summary of what I've learned on digital image processing using mostly OpenCV Python lib (https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
 Inside each folder is a readme.md in which I try to explain what the code does and some of the theory of digital image processing! :-)
